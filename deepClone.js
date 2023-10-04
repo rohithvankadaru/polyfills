@@ -1,8 +1,8 @@
 let obj = {
-    nam : "Krishna",
+    nam: "Krishna",
 
-    innerObj : {
-        nam : ["ram", 5, 9],
+    innerObj: {
+        nam: ["ram", 5, 9],
     }
 }
 
